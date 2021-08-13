@@ -1,5 +1,5 @@
 # Find-Ip
-* It uses API to track ip address. Alonh with Node.js and Express.js.
+* It uses API to track ip address. Along with Node.js and Express.js.
 
 ## Demo
 
