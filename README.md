@@ -1,7 +1,10 @@
 # Find-Ip
-* It uses API to track ip address
-* To check you own ip type check in the box
+* It uses API to track ip address. Alonh with Node.js and Express.js.
 
-## Link
+## Demo
 
-https://s0sharma.github.io/Find-Ip/
+![ip](/ip.png)
+
+<br>
+
+![ip-detail](/ipd.png)
